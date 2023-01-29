@@ -1,0 +1,43 @@
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+  margin-bottom: 30px;
+}
+
+body {
+  font-family: 'papyrus', Times, serif;
+  text-align: center;
+  font-size: 30px;
+  background-image: url("https://as2.ftcdn.net/v2/jpg/02/16/02/65/1000_F_216026553_uQCzeApK4de1GmcehBm2tPPFCt9pFWI0.jpg");
+ }
+
+input, label, select {
+  text-align: center;
+  width: 80px;	
+  font-size: 28px;
+}
+#sign{
+  height: 40px;
+}
+button {
+  width: 25%;
+  margin: 30px auto;
+  padding: 10px 15px;
+  background-color: rgb(153, 102, 255);
+  border: none;
+  color: black;
+  cursor: pointer;
+}
+#background {
+  margin-left: 200px;
+  margin-top: 75px;
+  max-width: 900px;
+  background: #fff;
+  width: 1600px;
+  padding: 25px 40px 10px 40px;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+  height: 75vh;
+}
+#span {
+  margin-left: 10px;
+  font-size: 30px;
+}
